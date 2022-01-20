@@ -6,6 +6,6 @@
 При этом, нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. Подбирать наилучшую модель не требуется.
 
 ## Интересное по криптографии
-[Secure Multiple Linear Regression Based on Homomorphic Encryption](https://www.cs.cmu.edu/~rjhall/JOS_revised_May_31a.pdf)
-[Some Applications of Machine Learning in Cryptography](https://www.researchgate.net/publication/342746786_Some_Applications_of_Machine_Learning_in_Cryptography)
-[Applications of Machine Learning in Cryptography: A Survey](https://arxiv.org/pdf/1902.04109.pdf)
+- [Secure Multiple Linear Regression Based on Homomorphic Encryption](https://www.cs.cmu.edu/~rjhall/JOS_revised_May_31a.pdf)
+- [Some Applications of Machine Learning in Cryptography](https://www.researchgate.net/publication/342746786_Some_Applications_of_Machine_Learning_in_Cryptography)
+- [Applications of Machine Learning in Cryptography: A Survey](https://arxiv.org/pdf/1902.04109.pdf)
