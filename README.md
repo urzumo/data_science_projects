@@ -13,6 +13,7 @@
 | 05. Защита персональных данных клиентов ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/zashita_personalnyh_dannyh) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/763b402c553eacb9404f46d15492e94e1b1c1cfa/zashita_personalnyh_dannyh/zashita_personalnyh_dannyh_git.ipynb))|Теоретическое доказательство неизменности предсказаний линейной регрессии при умножении матрицы признаков на случайную матрицу, подготовка класса шифратора|
 | 06. Определение стоимости автомобилей ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/stoimost_auto) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/af2fd8a6f9b2ce4bca06c1b6039c826d4b865858/stoimost_auto/stoimost_auto_git.ipynb))|Численные методы, алгоритм градиентного спуска, градиентный бустинг|
 | 07. Прогнозирование заказов такси ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/prognoz_taxi) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/58113966aa21bfe5c3aef048dbe83c4748b237e5/prognoz_taxi/prognoz_taksi_git.ipynb))|Временные ряды, стационарность ряда, дифференцирование ряда, подбор параметров ARIMA, предсказание|
+| 08. Классификация токсичности текста ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/nlp) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/707f3166d272199df485a10a1b54f985642926e4/nlp/nlp_git.ipynb))|TF-IDF, BERT-embeddings|
 
 
 
