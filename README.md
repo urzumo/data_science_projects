@@ -15,6 +15,7 @@
 | 07. Определение стоимости автомобилей ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/stoimost_auto) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/af2fd8a6f9b2ce4bca06c1b6039c826d4b865858/stoimost_auto/stoimost_auto_git.ipynb))|Численные методы, алгоритм градиентного спуска, градиентный бустинг|
 | 08. Прогнозирование заказов такси ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/prognoz_taxi) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/58113966aa21bfe5c3aef048dbe83c4748b237e5/prognoz_taxi/prognoz_taksi_git.ipynb))|Временные ряды, стационарность ряда, дифференцирование ряда, подбор параметров ARIMA, предсказание|
 | 09. Классификация токсичности текста ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/nlp) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/707f3166d272199df485a10a1b54f985642926e4/nlp/nlp_git.ipynb))|Классификация токсичности текста, TF-IDF, BERT-embeddings|
+| 10. Прогнозирование оттока клиентов в телекоме ([github](https://github.com/urzumo/data_science_projects/tree/urzumo/ottok_klientov_telekom) / [nbviewer](https://nbviewer.org/github/urzumo/data_science_projects/blob/5cff34b80830a5b46eafba8ba3d05e835b597669/ottok_klientov_telekom/telecom_ottok_git.ipynb))|Различные способы классификации (классический, стакинг на основе нейросети), feature engineering, пайплайн для полной автоматизации, бизнес-рекомендации|
 
 
 
